@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "803949617370",
+    "firebase_url": "https://quraan-app-24726.firebaseio.com",
+    "project_id": "quraan-app-24726",
+    "storage_bucket": "quraan-app-24726.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803949617370:android:a78a0c5476840458",
+        "android_client_info": {
+          "package_name": "com.example.yasmeen.project1_quraan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803949617370-o3bh1kmsi5girnr06htnfihsarvb5fem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yasmeen.project1_quraan",
+            "certificate_hash": "104ce2cc64327dfd6c577ec387ed2cb3b7b38591"
+          }
+        },
+        {
+          "client_id": "803949617370-ro2ik7454vn422r74uk815h3nt4tgrrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsIMdDh4QmqrmTjND1-73JCOjRlmnDcI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803949617370-ro2ik7454vn422r74uk815h3nt4tgrrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803949617370:android:e7bcbdea78cc4b01",
+        "android_client_info": {
+          "package_name": "com.moshaf.yasmeen.project1_quraan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803949617370-1o3qn1tl3b44uf31asjub6d1pvl5978b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moshaf.yasmeen.project1_quraan",
+            "certificate_hash": "104ce2cc64327dfd6c577ec387ed2cb3b7b38591"
+          }
+        },
+        {
+          "client_id": "803949617370-ro2ik7454vn422r74uk815h3nt4tgrrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsIMdDh4QmqrmTjND1-73JCOjRlmnDcI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803949617370-ro2ik7454vn422r74uk815h3nt4tgrrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

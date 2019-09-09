@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Project1_Quraan</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Quraan">القرآن الكريم</string>
+    <string name="sebha_electronia">السبحة</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Ahadeth"> احاديث</string>
+    <string name="radiochannel">الراديو</string>
+    <string name="azkar">الاذكار</string>
+    <string-array name="tasbeeh_array">
+        <item>الله اكبر</item>
+        <item>سبحان الله</item>
+        <item>الحمد لله</item>
+
+    </string-array>
+</resources>

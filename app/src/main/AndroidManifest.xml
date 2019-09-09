@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.moshaf.yasmeen.project1_quraan">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <meta-data android:name="google_analytics_adid_collection_enabled" android:value="false" />
+    <application
+        android:allowBackup="true"
+        android:name="com.moshaf.yasmeen.project1_quraan.ApplicationClass"
+        android:icon="@drawable/moshaf"
+        android:label="حصن المسلم"
+        android:roundIcon="@drawable/moshaf"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.moshaf.yasmeen.project1_quraan.Splash_screen.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.moshaf.yasmeen.project1_quraan.HomeActivity" />
+        <activity android:name="com.moshaf.yasmeen.project1_quraan.Activities.Sora_Kamla" />
+        <activity android:name="com.moshaf.yasmeen.project1_quraan.Activities.Hadeth_Kamel" />
+        <activity android:name="com.moshaf.yasmeen.project1_quraan.Activities.Azkar_Kamla"/>
+
+
+    </application>
+
+</manifest>
